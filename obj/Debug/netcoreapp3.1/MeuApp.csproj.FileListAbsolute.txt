@@ -1,0 +1,14 @@
+C:\temp\CursoBalta\bin\Debug\netcoreapp3.1\MeuApp.exe
+C:\temp\CursoBalta\bin\Debug\netcoreapp3.1\MeuApp.deps.json
+C:\temp\CursoBalta\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.json
+C:\temp\CursoBalta\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.dev.json
+C:\temp\CursoBalta\bin\Debug\netcoreapp3.1\MeuApp.dll
+C:\temp\CursoBalta\bin\Debug\netcoreapp3.1\MeuApp.pdb
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.csproj.AssemblyReference.cache
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfoInputs.cache
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfo.cs
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.csproj.CoreCompileInputs.cache
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.dll
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.pdb
+C:\temp\CursoBalta\obj\Debug\netcoreapp3.1\MeuApp.genruntimeconfig.cache
